@@ -1375,12 +1375,12 @@ input, select, textarea {
 
 			#header .content p {
 				text-transform: uppercase;
-				letter-spacing: 0.3rem;
-				font-size: 0.8rem;
+				letter-spacing: 0.1rem;
+				font-size: 0.99rem;
 				line-height: 2;
 				width: 55%;
 				margin: 0 auto;
-				text-shadow:2px 2px black;
+				text-shadow:1px 1px black;
 
 			}
 
